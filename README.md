@@ -1,4 +1,4 @@
-# Task-3-Unsuupervised-machine-learning
+# Task-3-Unsupervised-machine-learning
 To explore k-means clustering.
 
 From the given ‘Iris’ dataset, predict the optimum number of
